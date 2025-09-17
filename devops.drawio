@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="FhI5WFT_i6hG-SGLkC0E">
+    <mxGraphModel dx="1026" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-97" target="rJK0zX7TGELIpVlpy_Fz-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-97" value="ZK Eats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-99" target="rJK0zX7TGELIpVlpy_Fz-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-99" value="Checkout Page &amp;amp; RTS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-100" target="rJK0zX7TGELIpVlpy_Fz-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-100" target="rJK0zX7TGELIpVlpy_Fz-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-100" value="Designing UI/UX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-102" value="Customer sign up" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-104" target="rJK0zX7TGELIpVlpy_Fz-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="540" />
+              <mxPoint x="350" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-104" value="Listing Restaurants and their cusines" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-114" target="rJK0zX7TGELIpVlpy_Fz-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-114" value="Compiling to APK" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-115" target="rJK0zX7TGELIpVlpy_Fz-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-115" value="Np Bugs Found" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-117" value="Writing Permissions for Deployment" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-123" target="rJK0zX7TGELIpVlpy_Fz-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-123" value="Pushed to Appstore" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1150" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJK0zX7TGELIpVlpy_Fz-126" target="rJK0zX7TGELIpVlpy_Fz-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-126" value="Customer Using Application" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJK0zX7TGELIpVlpy_Fz-129" value="Recieved No Feedback" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1400" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
